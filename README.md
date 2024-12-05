@@ -31,10 +31,14 @@
 <ul>
 <li><img src="https://raw.githubusercontent.com/MeguruForever/assets/master/atri.jpeg" width="400"/></li>
 <li><img src="https://raw.githubusercontent.com/MeguruForever/assets/master/meguru.jpeg" width="400"/></li>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=MeguruForever&show_icons=true&locale=en" alt="MeguruForever" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MeguruForever&" alt="MeguruForever" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MeguruForever&show_icons=true&locale=en&layout=compact" alt="MeguruForever" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MeguruForever" alt="MeguruForever" /></a></p>
 
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MeguruForever&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=MeguruForever&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=MeguruForever" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeguruForever" /> </div>
+<!--
