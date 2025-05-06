@@ -25,7 +25,7 @@
 # 🚀 我可能会的一点东西 / Languages and Tools I Use
 
 <table align='right'>
-<tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeguruForever&layout=compact" width="500" height="300"></td></tr>
+<tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeguruForever&layout=compact"></td></tr>
 </table>
 <table alien="left"><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
@@ -48,7 +48,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="42" height="42" /></a>
 <a target="_blank" href="https://download.blender.org/branding/community/blender_community_badge_white.svg" style="display: inline-block;"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="42" height="42" /></a></table>
 
-# 💕 碎碎念
+# 💕 碎碎念 / Some Other Words
 
 <div align="center"> <img width="400" src="https://count.kjchmc.cn/get/@:MeguruForever?theme=gelbooru" /> </div>
 
