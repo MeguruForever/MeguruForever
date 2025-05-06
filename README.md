@@ -45,7 +45,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="42" height="42" /></a>
 <a target="_blank" href="https://download.blender.org/branding/community/blender_community_badge_white.svg" style="display: inline-block;"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="42" height="42" /></a></p>
 
-<table align='center'>
+<table align='right'>
 <tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeguruForever&layout=compact" width="400"></td></tr>
 </table>
 
