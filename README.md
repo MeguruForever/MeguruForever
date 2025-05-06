@@ -25,7 +25,7 @@
 # 🚀 我可能会的一点东西 / Languages and Tools I Use
 
 <table align='right'>
-<tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeguruForever&layout=compact"></td></tr>
+<tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeguruForever&layout=compact" width="400"></td></tr>
 </table>
 <table alien="left"><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
